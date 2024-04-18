@@ -1,0 +1,20 @@
+ Instructions:
+// 	 For this assignment, you need to make sure you have downloaded and installed git on your system.
+ 
+//	 Make sure you have created a github account also.
+	 
+step 1	 Make sure you already have a master branch with some commits on an initialized local git repository.
+	 
+step 2	 Create a new branch, and checkout to the new branch.
+	 
+step 3	 Make some changes and save them as commits to the new branch.
+	 
+step 4	 Push those changes / commits on the local new branch to the online remote repository on GitHub.
+	 
+step 5	 Merge the new branch changes to the master branch.
+	 
+step 6	 Push these changes from master branch on the local git repository to your online remote GitHub repository.
+	 
+step 7	 Show the commit hash codes on both the local git repository and the online remote GitHub account repository (they should match).
+
+Submission: Show all the steps listed above as screenshots. This homework assignment should be emailed to the TA (venkata_narendra_kum.sykam@students.tamuk.edu) with your name(s), KID(s), course number, and HW or assignment number.   
